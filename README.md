@@ -9,7 +9,5 @@
 <h3>B.tech first year</h3>
 <h4>section "I"</h4>
 <h5>AIML</h5>
-</for>
-</style>
 </body>
 </html>
