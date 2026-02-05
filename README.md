@@ -20,16 +20,6 @@ Name <input type="text"textarea="t1">
   <option value="I">I</option>
   <option value="J">J</option>
 </select>
-<style>
-form {
-  display: block;
-  margin-top: 0em;
-}
-form {
-  background-color: #f0f0f0;
-  padding: 20px;     
-  border: 1px solid #ccc;  
-}
 
 </form>
 </style>
